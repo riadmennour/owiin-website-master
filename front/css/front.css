@@ -35849,8 +35849,8 @@ article .h1, article .h2, article .h3, article .h4, article .h5, article .h6 {
     background: #d10754ff;
     border-radius: 50%;
     position: absolute;
-    left: 1px;
-    top: 1px;
+    left: 14px;
+    top: 20px;
     animation: bounce 0.6s cubic-bezier(0.6, -0.28, 0.74, 0.05) infinite;
 }
 
