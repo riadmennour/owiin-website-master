@@ -35846,7 +35846,7 @@ article .h1, article .h2, article .h3, article .h4, article .h5, article .h6 {
     display: block;
     width: 9px;
     height: 9px;
-    background: #DE350B;
+    background: transparent;
     border-radius: 50%;
     position: absolute;
     left: 1px;
